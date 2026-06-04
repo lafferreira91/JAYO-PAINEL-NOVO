@@ -1,0 +1,6 @@
+{
+  "name": "Invo",
+  "description": "An identical, highly interactive replica of the premium Invo billing, analytics, and client management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
